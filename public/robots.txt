@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: EtaoSpider
+Disallow: /
+
+
+User-agent: Googlebot-Image
+allow: /img
+allow: /uploads
+
+
+sitemap: https://gheras.emcan-group.com/sitemap.xml

@@ -1,0 +1,11 @@
+{
+    "name": "Value",
+    "alias": "value",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Value\\Providers\\ValueServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,17 @@
+{
+    "Admin": true,
+    "Country": true,
+    "Slider": true,
+    "Advertisement": true,
+    "Value": true,
+    "Service": true,
+    "Blog": true,
+    "Client": false,
+    "Setting": true,
+    "Contact": true,
+    "FAQ": true,
+    "Product": true,
+    "Company": true,
+    "Line": true,
+    "Media": true
+}
