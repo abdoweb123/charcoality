@@ -1,5 +1,5 @@
 ## charcoality webiste
-### Link: https://charcoality.com
+### Link: https://charcoality.com/home
 
 ### Webiste Screens
 ![Screenshot (380)](https://github.com/abdoweb123/charcoality/assets/96248035/f06fe179-dd54-4c1e-9bf7-8f7d5173a3ca)
